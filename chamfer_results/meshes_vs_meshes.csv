@@ -1,0 +1,1251 @@
+pair_name,frame,path_a,path_b,num_points,chamfer_squared
+eat__eat,0,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.011670980533711559
+eat__eat,1,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012879071278307935
+eat__eat,2,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014049112676645137
+eat__eat,3,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01594307540849539
+eat__eat,4,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.017488960734768785
+eat__eat,5,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01963273832784284
+eat__eat,6,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.020770767990743462
+eat__eat,7,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02196716849576913
+eat__eat,8,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021935178519585846
+eat__eat,9,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.023029387441166387
+eat__eat,10,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.023545690907139295
+eat__eat,11,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.023312143422063693
+eat__eat,12,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.023136044066353063
+eat__eat,13,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.022863320376312585
+eat__eat,14,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.022257420052329974
+eat__eat,15,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021858699178549018
+eat__eat,16,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021398027096936247
+eat__eat,17,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02019514815905071
+eat__eat,18,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.019356859034050898
+eat__eat,19,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.018518907728079743
+eat__eat,20,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.017366626671120135
+eat__eat,21,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.016199296014822232
+eat__eat,22,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.015358580708245235
+eat__eat,23,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014647114695510036
+eat__eat,24,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013904722485966744
+eat__eat,25,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013483212421937998
+eat__eat,26,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013127513507421404
+eat__eat,27,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012790128709562214
+eat__eat,28,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012692443036635718
+eat__eat,29,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012528972270495356
+eat__eat,30,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012551738070887917
+eat__eat,31,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012646880537967631
+eat__eat,32,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012701172771237858
+eat__eat,33,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012621932394540122
+eat__eat,34,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.0126503232931772
+eat__eat,35,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01267378722187405
+eat__eat,36,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012851001636626986
+eat__eat,37,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012879601596671845
+eat__eat,38,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012903318362903224
+eat__eat,39,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013084173380167251
+eat__eat,40,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013061020501843015
+eat__eat,41,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01294672977801527
+eat__eat,42,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013117258386875923
+eat__eat,43,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012908352753869364
+eat__eat,44,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012929442018553478
+eat__eat,45,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013149519279621758
+eat__eat,46,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013113410307013757
+eat__eat,47,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013029596659795032
+eat__eat,48,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013062723979923196
+eat__eat,49,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012992086993069231
+eat__eat,50,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013057026209164928
+eat__eat,51,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01299615279509005
+eat__eat,52,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013010732231133037
+eat__eat,53,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012869734318427042
+eat__eat,54,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013049096374469764
+eat__eat,55,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.0131788593305209
+eat__eat,56,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01304636070556232
+eat__eat,57,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01294519707550101
+eat__eat,58,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013257548337561896
+eat__eat,59,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012955500660549766
+eat__eat,60,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013033032845563947
+eat__eat,61,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012894812643348495
+eat__eat,62,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012825666521993895
+eat__eat,63,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01291208148794484
+eat__eat,64,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012778718626485384
+eat__eat,65,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012871360702714899
+eat__eat,66,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012976950184177435
+eat__eat,67,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013169146348626853
+eat__eat,68,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013151872633180978
+eat__eat,69,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013175830084478993
+eat__eat,70,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01307995548834771
+eat__eat,71,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013231509925824031
+eat__eat,72,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013060851527349607
+eat__eat,73,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013059500337004343
+eat__eat,74,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013083967686727652
+eat__eat,75,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01307086507762413
+eat__eat,76,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.012990744587012729
+eat__eat,77,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013013146387427956
+eat__eat,78,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013088676507130676
+eat__eat,79,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013249163541964922
+eat__eat,80,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01334086933564695
+eat__eat,81,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013471535697211556
+eat__eat,82,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013846858884975013
+eat__eat,83,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014532656366180476
+eat__eat,84,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.015373276734657396
+eat__eat,85,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.016058563533599697
+eat__eat,86,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.016884198416420644
+eat__eat,87,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.017727391861921765
+eat__eat,88,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01885704699506527
+eat__eat,89,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.019708484795034197
+eat__eat,90,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02028777158659912
+eat__eat,91,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.020646195809054958
+eat__eat,92,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.020805231330124255
+eat__eat,93,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021201008607226176
+eat__eat,94,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02124708838322608
+eat__eat,95,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021643280181603344
+eat__eat,96,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02159661399642509
+eat__eat,97,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021364627907203664
+eat__eat,98,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021748078017402826
+eat__eat,99,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021548680363531563
+eat__eat,100,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.021278599267192014
+eat__eat,101,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02110277147075848
+eat__eat,102,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.020777150099860524
+eat__eat,103,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.02004350039206043
+eat__eat,104,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.019575065824120188
+eat__eat,105,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.018232670009759026
+eat__eat,106,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01743474085131287
+eat__eat,107,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.016440079411943233
+eat__eat,108,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.015726734139279688
+eat__eat,109,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.015012840858207456
+eat__eat,110,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014351268585231586
+eat__eat,111,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01439840029622124
+eat__eat,112,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013853859679936704
+eat__eat,113,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013789208425980304
+eat__eat,114,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013500622364254387
+eat__eat,115,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013299357159334177
+eat__eat,116,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013320986940607883
+eat__eat,117,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013364311582440582
+eat__eat,118,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013341352887820693
+eat__eat,119,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013336030216552396
+eat__eat,120,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013270362819682625
+eat__eat,121,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013441270493571088
+eat__eat,122,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013559448165962114
+eat__eat,123,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013535601911334261
+eat__eat,124,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013588841057961088
+eat__eat,125,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013808464458564724
+eat__eat,126,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013575779511328866
+eat__eat,127,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013355605514429249
+eat__eat,128,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013299666141073346
+eat__eat,129,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01332033592089403
+eat__eat,130,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01358736436909572
+eat__eat,131,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013441438294674028
+eat__eat,132,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013866146511296836
+eat__eat,133,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01365564888878136
+eat__eat,134,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013631277011319644
+eat__eat,135,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013984342845968716
+eat__eat,136,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013729988463977558
+eat__eat,137,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013835803598638008
+eat__eat,138,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013782118987946729
+eat__eat,139,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014104492926291266
+eat__eat,140,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014154126276644512
+eat__eat,141,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013933138685347603
+eat__eat,142,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014161240133996427
+eat__eat,143,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014154771111988287
+eat__eat,144,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014493460330199432
+eat__eat,145,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014421100468208974
+eat__eat,146,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014305794414509791
+eat__eat,147,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014519862314311708
+eat__eat,148,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014670319874254076
+eat__eat,149,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014749054242365344
+eat__eat,150,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01459761150526873
+eat__eat,151,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01483949885212306
+eat__eat,152,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014899414643847293
+eat__eat,153,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014711172213003578
+eat__eat,154,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014529175466035474
+eat__eat,155,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014535777889513761
+eat__eat,156,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014408189316308936
+eat__eat,157,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014561990872171483
+eat__eat,158,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01429101629313417
+eat__eat,159,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01443757042674813
+eat__eat,160,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01428349255734024
+eat__eat,161,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014257861699645885
+eat__eat,162,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014031824632190718
+eat__eat,163,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.014364609709685805
+eat__eat,164,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.0139815615404623
+eat__eat,165,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01386398485032022
+eat__eat,166,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013763385223818949
+eat__eat,167,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013910575266506416
+eat__eat,168,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013665024823481788
+eat__eat,169,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013613511885682175
+eat__eat,170,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013500178943136279
+eat__eat,171,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013571212059152533
+eat__eat,172,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013450684798761924
+eat__eat,173,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013479752503300371
+eat__eat,174,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013425932872446443
+eat__eat,175,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013557561400957966
+eat__eat,176,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01358151359105883
+eat__eat,177,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013618290069732884
+eat__eat,178,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013467001662530155
+eat__eat,179,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013546579085080057
+eat__eat,180,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013590043835182673
+eat__eat,181,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013480902369874023
+eat__eat,182,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013502042413948239
+eat__eat,183,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01352467999757974
+eat__eat,184,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013573469642796853
+eat__eat,185,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013669744662093055
+eat__eat,186,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013590332115360869
+eat__eat,187,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013483627487494418
+eat__eat,188,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013468257030004037
+eat__eat,189,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013451015600554225
+eat__eat,190,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013559175729749389
+eat__eat,191,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013649956520790513
+eat__eat,192,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013708232642441882
+eat__eat,193,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013537717054554185
+eat__eat,194,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01363408153892006
+eat__eat,195,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013410556824882305
+eat__eat,196,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013537367948286243
+eat__eat,197,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.0135480942005177
+eat__eat,198,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013548832152605944
+eat__eat,199,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013540312531489379
+eat__eat,200,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013321033411142023
+eat__eat,201,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013555356545961732
+eat__eat,202,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013659330966223621
+eat__eat,203,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013610291455454813
+eat__eat,204,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013439452796709404
+eat__eat,205,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013486064688638368
+eat__eat,206,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013385948626025625
+eat__eat,207,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013523055045336666
+eat__eat,208,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01368390941979989
+eat__eat,209,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013638238237440039
+eat__eat,210,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01356750704254273
+eat__eat,211,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01354596493948133
+eat__eat,212,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013584359180585388
+eat__eat,213,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013332479710292909
+eat__eat,214,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013542656064840473
+eat__eat,215,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013503619078253638
+eat__eat,216,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013679237423163178
+eat__eat,217,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013349337778613406
+eat__eat,218,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013413444900402622
+eat__eat,219,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013471126610381426
+eat__eat,220,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01351423594618319
+eat__eat,221,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01354041508006142
+eat__eat,222,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013688664669423
+eat__eat,223,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.0134058074144861
+eat__eat,224,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013558939122536607
+eat__eat,225,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013458865859952974
+eat__eat,226,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013551083104982542
+eat__eat,227,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013545147786770953
+eat__eat,228,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013592883618665424
+eat__eat,229,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013460503097900976
+eat__eat,230,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013563655681212594
+eat__eat,231,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013467692623818832
+eat__eat,232,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013516501546311427
+eat__eat,233,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013420156869177021
+eat__eat,234,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013549996792428458
+eat__eat,235,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.01356811793578828
+eat__eat,236,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013592218998800686
+eat__eat,237,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013806782827239902
+eat__eat,238,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013590954786885108
+eat__eat,239,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013527413211140283
+eat__eat,240,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013506627097984654
+eat__eat,241,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013461277826195035
+eat__eat,242,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013638663164984846
+eat__eat,243,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013254799382288874
+eat__eat,244,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013440363803597345
+eat__eat,245,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013596566431483168
+eat__eat,246,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013474947892382304
+eat__eat,247,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013655254961680609
+eat__eat,248,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013613365309518666
+eat__eat,249,output_videos/rdmeshdit/f/rdmesh/meshes/eat.fbx,test_data/meshes/eat.fbx,10000,0.013667716954563786
+idle2__idle2,0,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0524527721799027
+idle2__idle2,1,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05239567532166838
+idle2__idle2,2,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05205872317555804
+idle2__idle2,3,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05239261558289643
+idle2__idle2,4,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05278947913688598
+idle2__idle2,5,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05366905375530393
+idle2__idle2,6,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.053847299446008884
+idle2__idle2,7,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05504666031160531
+idle2__idle2,8,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05719518687319157
+idle2__idle2,9,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05797578082052021
+idle2__idle2,10,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0602179169604741
+idle2__idle2,11,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06237526582453602
+idle2__idle2,12,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06558482844508666
+idle2__idle2,13,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06641406017902436
+idle2__idle2,14,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06686446762532129
+idle2__idle2,15,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06743404974846101
+idle2__idle2,16,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0655575847764069
+idle2__idle2,17,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06580564755889486
+idle2__idle2,18,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06451016486875347
+idle2__idle2,19,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06392200640688718
+idle2__idle2,20,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06312249543197751
+idle2__idle2,21,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.061747410445916626
+idle2__idle2,22,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06119868558847613
+idle2__idle2,23,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0602172798808969
+idle2__idle2,24,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05970773598120669
+idle2__idle2,25,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05991019694895092
+idle2__idle2,26,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05872406999047709
+idle2__idle2,27,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05904155701760273
+idle2__idle2,28,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.058825573990961305
+idle2__idle2,29,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.058724601230666376
+idle2__idle2,30,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05865987279751877
+idle2__idle2,31,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.059602981255052465
+idle2__idle2,32,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06024457915608605
+idle2__idle2,33,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05912175892268871
+idle2__idle2,34,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06051058679829364
+idle2__idle2,35,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.059862346844813716
+idle2__idle2,36,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0612880585807319
+idle2__idle2,37,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.061360675749068394
+idle2__idle2,38,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.060625952888685594
+idle2__idle2,39,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06078896750144086
+idle2__idle2,40,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06153751749140261
+idle2__idle2,41,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06168978191627013
+idle2__idle2,42,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06123045839519073
+idle2__idle2,43,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06167875906845807
+idle2__idle2,44,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06140146234528722
+idle2__idle2,45,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06004060300845704
+idle2__idle2,46,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.060129919139912044
+idle2__idle2,47,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0587872709848632
+idle2__idle2,48,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05867300616137324
+idle2__idle2,49,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05796774389534058
+idle2__idle2,50,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.057250204940487784
+idle2__idle2,51,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05642884221666686
+idle2__idle2,52,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.056576994511925716
+idle2__idle2,53,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05510030039879146
+idle2__idle2,54,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.055527527005192145
+idle2__idle2,55,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05453799840644589
+idle2__idle2,56,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0550796140167937
+idle2__idle2,57,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05403806638507205
+idle2__idle2,58,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05486487982722943
+idle2__idle2,59,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05485912637675387
+idle2__idle2,60,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.054172530145248594
+idle2__idle2,61,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.054285392145083156
+idle2__idle2,62,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.055180262017266085
+idle2__idle2,63,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05344867072777796
+idle2__idle2,64,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05403732891065027
+idle2__idle2,65,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05430940652704115
+idle2__idle2,66,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.054123342270389854
+idle2__idle2,67,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05307798503629295
+idle2__idle2,68,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.054140122045907485
+idle2__idle2,69,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05397793235225237
+idle2__idle2,70,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05395145991998578
+idle2__idle2,71,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05379010318519789
+idle2__idle2,72,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05387463872250764
+idle2__idle2,73,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05408755861139465
+idle2__idle2,74,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.053559872671561176
+idle2__idle2,75,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05297445442211862
+idle2__idle2,76,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05227205962682974
+idle2__idle2,77,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05259301306130403
+idle2__idle2,78,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05129755415113185
+idle2__idle2,79,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05087632525639231
+idle2__idle2,80,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05016611000699095
+idle2__idle2,81,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.049770085767135264
+idle2__idle2,82,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04790405948192287
+idle2__idle2,83,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.047136444332287794
+idle2__idle2,84,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04649878806852663
+idle2__idle2,85,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.045327073635732504
+idle2__idle2,86,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04473035919167025
+idle2__idle2,87,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04375115338079504
+idle2__idle2,88,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0439023163380804
+idle2__idle2,89,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04358916475505082
+idle2__idle2,90,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04357066629998117
+idle2__idle2,91,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04342833874979575
+idle2__idle2,92,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.042953126575057884
+idle2__idle2,93,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04284145564957253
+idle2__idle2,94,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04279486271583523
+idle2__idle2,95,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043257576621597946
+idle2__idle2,96,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.044014721123306615
+idle2__idle2,97,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04388398805928259
+idle2__idle2,98,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04295993832366782
+idle2__idle2,99,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04351509312287744
+idle2__idle2,100,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04463088665891178
+idle2__idle2,101,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04295509860934707
+idle2__idle2,102,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043808558341171616
+idle2__idle2,103,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0434122677189122
+idle2__idle2,104,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04343554599168695
+idle2__idle2,105,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043825515146116364
+idle2__idle2,106,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04390054544275198
+idle2__idle2,107,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04345807246461815
+idle2__idle2,108,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04323642217335001
+idle2__idle2,109,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04328073213787395
+idle2__idle2,110,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043192423963208396
+idle2__idle2,111,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04369121963387901
+idle2__idle2,112,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043265641815105796
+idle2__idle2,113,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04382583714880906
+idle2__idle2,114,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04378719925466974
+idle2__idle2,115,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043319385168131885
+idle2__idle2,116,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043653190558154975
+idle2__idle2,117,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.043723755122151146
+idle2__idle2,118,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04373310732591863
+idle2__idle2,119,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04447107711092524
+idle2__idle2,120,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0436300431697951
+idle2__idle2,121,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04476698236919892
+idle2__idle2,122,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04374389508619093
+idle2__idle2,123,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04344355445266709
+idle2__idle2,124,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.044735389167056355
+idle2__idle2,125,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04524929145575999
+idle2__idle2,126,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04659257450357722
+idle2__idle2,127,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04645474710473578
+idle2__idle2,128,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.04891963630495416
+idle2__idle2,129,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.05071668289128857
+idle2__idle2,130,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.054362662912846096
+idle2__idle2,131,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.057880768224485214
+idle2__idle2,132,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06047427594243317
+idle2__idle2,133,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06251201572179205
+idle2__idle2,134,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06456510817966084
+idle2__idle2,135,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0659642849950861
+idle2__idle2,136,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06814606170895436
+idle2__idle2,137,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06920375265567943
+idle2__idle2,138,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06926332184378856
+idle2__idle2,139,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06941088567663403
+idle2__idle2,140,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06959282860521976
+idle2__idle2,141,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07061179373365564
+idle2__idle2,142,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06928139628455532
+idle2__idle2,143,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07014359335439016
+idle2__idle2,144,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0706999016475352
+idle2__idle2,145,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06941050313515831
+idle2__idle2,146,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07061108670151246
+idle2__idle2,147,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07102807227926711
+idle2__idle2,148,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06959136077528738
+idle2__idle2,149,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06999808474142097
+idle2__idle2,150,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07031531444186678
+idle2__idle2,151,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0707236213821238
+idle2__idle2,152,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07078602750949671
+idle2__idle2,153,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07084940474723939
+idle2__idle2,154,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07009067184151119
+idle2__idle2,155,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06908661209232593
+idle2__idle2,156,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07078433121810489
+idle2__idle2,157,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06905685839240448
+idle2__idle2,158,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06980965078789104
+idle2__idle2,159,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06966006222145324
+idle2__idle2,160,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07012638734192556
+idle2__idle2,161,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07063309246052626
+idle2__idle2,162,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06984994198258387
+idle2__idle2,163,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06989969575950696
+idle2__idle2,164,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0694120443435462
+idle2__idle2,165,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07143103815174763
+idle2__idle2,166,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06894868471809737
+idle2__idle2,167,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07133531556676898
+idle2__idle2,168,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06973441624418773
+idle2__idle2,169,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07089979091059197
+idle2__idle2,170,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07141866663671446
+idle2__idle2,171,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07047612052669332
+idle2__idle2,172,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06853613709480005
+idle2__idle2,173,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06923224178070043
+idle2__idle2,174,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07058061130009467
+idle2__idle2,175,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06929330763758809
+idle2__idle2,176,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07063327324765786
+idle2__idle2,177,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06959245420675184
+idle2__idle2,178,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0702653550692042
+idle2__idle2,179,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0709681746462501
+idle2__idle2,180,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07096585495147315
+idle2__idle2,181,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07121011700689381
+idle2__idle2,182,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07128863957853979
+idle2__idle2,183,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07064099339854031
+idle2__idle2,184,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07090663546151121
+idle2__idle2,185,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07153305591725484
+idle2__idle2,186,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07069765685685135
+idle2__idle2,187,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07034334285047031
+idle2__idle2,188,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07143943414664101
+idle2__idle2,189,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07039489230069175
+idle2__idle2,190,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07047690016786516
+idle2__idle2,191,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07045594171457346
+idle2__idle2,192,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0698920505855523
+idle2__idle2,193,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06952812926684132
+idle2__idle2,194,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07047486906494649
+idle2__idle2,195,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06859952881291603
+idle2__idle2,196,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07059927278370684
+idle2__idle2,197,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06882362514032053
+idle2__idle2,198,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06886650894976692
+idle2__idle2,199,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0696007643003156
+idle2__idle2,200,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06981039560933008
+idle2__idle2,201,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06969245389261759
+idle2__idle2,202,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07008970746970772
+idle2__idle2,203,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06991780322992897
+idle2__idle2,204,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06947971513686292
+idle2__idle2,205,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07093700353660352
+idle2__idle2,206,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07009706436924448
+idle2__idle2,207,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06985004773279418
+idle2__idle2,208,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06947166720618164
+idle2__idle2,209,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06942301830705427
+idle2__idle2,210,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07056601812233339
+idle2__idle2,211,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.0715607692157351
+idle2__idle2,212,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07000254595789025
+idle2__idle2,213,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07135718032085617
+idle2__idle2,214,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07033376856037986
+idle2__idle2,215,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07108549399864482
+idle2__idle2,216,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07149368743500722
+idle2__idle2,217,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07084302385977591
+idle2__idle2,218,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.071401506470024
+idle2__idle2,219,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06965162125660077
+idle2__idle2,220,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07030698089449049
+idle2__idle2,221,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07216687252964712
+idle2__idle2,222,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.070137770232607
+idle2__idle2,223,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07062916048231581
+idle2__idle2,224,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07073156399191378
+idle2__idle2,225,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07136367989863991
+idle2__idle2,226,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07072225110728374
+idle2__idle2,227,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06997243842386067
+idle2__idle2,228,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07095038392274144
+idle2__idle2,229,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07055321345494914
+idle2__idle2,230,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06995663572245199
+idle2__idle2,231,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.070901881664781
+idle2__idle2,232,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07032663483456703
+idle2__idle2,233,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07038482468924645
+idle2__idle2,234,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07072131610652194
+idle2__idle2,235,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06946158700234487
+idle2__idle2,236,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07037876115759381
+idle2__idle2,237,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06994081615220855
+idle2__idle2,238,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07170442724617378
+idle2__idle2,239,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07081769778122153
+idle2__idle2,240,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07061644917366587
+idle2__idle2,241,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06971028107106145
+idle2__idle2,242,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07021553227509417
+idle2__idle2,243,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06971542422295508
+idle2__idle2,244,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.06936869721883925
+idle2__idle2,245,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07098407850181113
+idle2__idle2,246,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07016336153877313
+idle2__idle2,247,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07095269328555232
+idle2__idle2,248,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07034239925390169
+idle2__idle2,249,output_videos/rdmeshdit/f/rdmesh/meshes/idle2.fbx,test_data/meshes/idle2.fbx,10000,0.07064462143772096
+ram run__ram run,0,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.06683775755452437
+ram run__ram run,1,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.06782606074203189
+ram run__ram run,2,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.06887439178863447
+ram run__ram run,3,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.07124036960984935
+ram run__ram run,4,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0685367799588884
+ram run__ram run,5,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.06505105137708875
+ram run__ram run,6,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.06037929714353894
+ram run__ram run,7,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05939149128294456
+ram run__ram run,8,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.058619473829882036
+ram run__ram run,9,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05745819199396269
+ram run__ram run,10,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05651907508044574
+ram run__ram run,11,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05407684996304938
+ram run__ram run,12,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05054500594924757
+ram run__ram run,13,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049156864620829126
+ram run__ram run,14,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04984385421059591
+ram run__ram run,15,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04722543785377789
+ram run__ram run,16,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0473030618010926
+ram run__ram run,17,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0463255254369621
+ram run__ram run,18,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04618299325883416
+ram run__ram run,19,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04742222635777228
+ram run__ram run,20,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.046847550371906146
+ram run__ram run,21,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04774678557363388
+ram run__ram run,22,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.047173098235629624
+ram run__ram run,23,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04823550848452061
+ram run__ram run,24,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.048944673019338136
+ram run__ram run,25,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04900345708096934
+ram run__ram run,26,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04965173020362727
+ram run__ram run,27,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05006016962359282
+ram run__ram run,28,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050297694486273706
+ram run__ram run,29,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049669137348435956
+ram run__ram run,30,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050418227870741114
+ram run__ram run,31,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051456353888109166
+ram run__ram run,32,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04988291314152242
+ram run__ram run,33,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05116956098476157
+ram run__ram run,34,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050121083685591344
+ram run__ram run,35,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05199518909450197
+ram run__ram run,36,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051755558715828716
+ram run__ram run,37,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05094806806092039
+ram run__ram run,38,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05085900619227095
+ram run__ram run,39,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051312103409209886
+ram run__ram run,40,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05148694343091731
+ram run__ram run,41,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051028591098321766
+ram run__ram run,42,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05107185029140671
+ram run__ram run,43,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051209799021248774
+ram run__ram run,44,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05130012487450944
+ram run__ram run,45,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051676490434933796
+ram run__ram run,46,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051511893389934914
+ram run__ram run,47,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05224355241840707
+ram run__ram run,48,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05159726880403233
+ram run__ram run,49,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05124134402492604
+ram run__ram run,50,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05190950485143933
+ram run__ram run,51,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05188236433758307
+ram run__ram run,52,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05157363619018218
+ram run__ram run,53,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05186667072911949
+ram run__ram run,54,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05053211552109853
+ram run__ram run,55,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05250448926933289
+ram run__ram run,56,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05056356365274173
+ram run__ram run,57,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05106870636037403
+ram run__ram run,58,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05068271252329051
+ram run__ram run,59,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.051357773755597504
+ram run__ram run,60,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05076961667457391
+ram run__ram run,61,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05096426419232205
+ram run__ram run,62,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05028276002516502
+ram run__ram run,63,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0502687642198113
+ram run__ram run,64,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0503586904612888
+ram run__ram run,65,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04941646778170497
+ram run__ram run,66,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05023600116922322
+ram run__ram run,67,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04957678283222463
+ram run__ram run,68,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04982035645694324
+ram run__ram run,69,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04990239996194451
+ram run__ram run,70,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049970850685128985
+ram run__ram run,71,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04924117291095624
+ram run__ram run,72,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04987733205935707
+ram run__ram run,73,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049940364785792
+ram run__ram run,74,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04975418658065604
+ram run__ram run,75,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04983669132472939
+ram run__ram run,76,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05017468972497007
+ram run__ram run,77,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049890550205347696
+ram run__ram run,78,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049566313203191936
+ram run__ram run,79,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050067710099887426
+ram run__ram run,80,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05082270883343179
+ram run__ram run,81,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04978183826006033
+ram run__ram run,82,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04933724776967638
+ram run__ram run,83,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05022284432198227
+ram run__ram run,84,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049545231356226925
+ram run__ram run,85,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0499263003096832
+ram run__ram run,86,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049905759373800034
+ram run__ram run,87,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05010894912618738
+ram run__ram run,88,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049864533839463265
+ram run__ram run,89,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049757252449659034
+ram run__ram run,90,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04957390260281161
+ram run__ram run,91,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04956317038741704
+ram run__ram run,92,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04998203852825067
+ram run__ram run,93,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04916450674876445
+ram run__ram run,94,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049860323746895106
+ram run__ram run,95,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04953240914175008
+ram run__ram run,96,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04981769884639355
+ram run__ram run,97,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049252172663627095
+ram run__ram run,98,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05004887238997359
+ram run__ram run,99,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05034222072170921
+ram run__ram run,100,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050169912419416526
+ram run__ram run,101,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05039304243350326
+ram run__ram run,102,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04966222212363363
+ram run__ram run,103,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049957909231606826
+ram run__ram run,104,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04994096974864766
+ram run__ram run,105,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049871589551798975
+ram run__ram run,106,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04978463455425185
+ram run__ram run,107,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049860611585223105
+ram run__ram run,108,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04954118908012756
+ram run__ram run,109,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049656728510241756
+ram run__ram run,110,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04965390730936524
+ram run__ram run,111,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04990144102200245
+ram run__ram run,112,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0500293345905376
+ram run__ram run,113,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05012867956926706
+ram run__ram run,114,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04997455845614276
+ram run__ram run,115,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05030617555424964
+ram run__ram run,116,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049706576533673934
+ram run__ram run,117,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05040678508632516
+ram run__ram run,118,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04977900773280555
+ram run__ram run,119,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04990017634478992
+ram run__ram run,120,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04912295077944102
+ram run__ram run,121,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05026291634197637
+ram run__ram run,122,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0501038244274246
+ram run__ram run,123,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04946796536181082
+ram run__ram run,124,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04913086285494987
+ram run__ram run,125,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050036270563642626
+ram run__ram run,126,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049781894938402654
+ram run__ram run,127,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050249365096158405
+ram run__ram run,128,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04953800862374929
+ram run__ram run,129,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050296398275249954
+ram run__ram run,130,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049404686561107344
+ram run__ram run,131,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04932914623293888
+ram run__ram run,132,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04963232106862542
+ram run__ram run,133,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050019850362549925
+ram run__ram run,134,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04969678178177807
+ram run__ram run,135,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04942016343980728
+ram run__ram run,136,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04948048145528117
+ram run__ram run,137,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050267518670433
+ram run__ram run,138,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049763897971690875
+ram run__ram run,139,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05058484549409706
+ram run__ram run,140,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05043176327506873
+ram run__ram run,141,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04906830008833324
+ram run__ram run,142,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05088171808496378
+ram run__ram run,143,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04965388303430967
+ram run__ram run,144,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049699872216651064
+ram run__ram run,145,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050441076426639336
+ram run__ram run,146,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05044190815758049
+ram run__ram run,147,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04987840421354715
+ram run__ram run,148,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0497186414581941
+ram run__ram run,149,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049646546614942916
+ram run__ram run,150,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050163137252000556
+ram run__ram run,151,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04921313464584896
+ram run__ram run,152,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049892074745671464
+ram run__ram run,153,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04993483721836722
+ram run__ram run,154,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050076105422470645
+ram run__ram run,155,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05028187835366275
+ram run__ram run,156,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04975712043149488
+ram run__ram run,157,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049996796270854287
+ram run__ram run,158,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049041203318209825
+ram run__ram run,159,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04959929318320094
+ram run__ram run,160,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04985556826060993
+ram run__ram run,161,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04907337762202926
+ram run__ram run,162,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04985896795938047
+ram run__ram run,163,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04985986651000707
+ram run__ram run,164,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04997348090954318
+ram run__ram run,165,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04921591984990176
+ram run__ram run,166,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04948509465004785
+ram run__ram run,167,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.048839782255132275
+ram run__ram run,168,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049546643964368337
+ram run__ram run,169,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05068235905954782
+ram run__ram run,170,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05010535629358849
+ram run__ram run,171,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04927074426730945
+ram run__ram run,172,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05053784915494036
+ram run__ram run,173,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05010153503726816
+ram run__ram run,174,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049891657473566824
+ram run__ram run,175,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04977847928496001
+ram run__ram run,176,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05092542436487367
+ram run__ram run,177,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050300052881714755
+ram run__ram run,178,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05001132901721146
+ram run__ram run,179,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049855560876257074
+ram run__ram run,180,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04977797548848852
+ram run__ram run,181,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049498620112497865
+ram run__ram run,182,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05007274316786223
+ram run__ram run,183,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05004130969002009
+ram run__ram run,184,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050089131862684516
+ram run__ram run,185,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049606336040930774
+ram run__ram run,186,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049634621926580726
+ram run__ram run,187,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049916473355370375
+ram run__ram run,188,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05017936799362831
+ram run__ram run,189,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04957275509143878
+ram run__ram run,190,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04925784342754447
+ram run__ram run,191,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04909911230556606
+ram run__ram run,192,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049583425682001955
+ram run__ram run,193,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04984373795707436
+ram run__ram run,194,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04927081876469853
+ram run__ram run,195,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049876133733457104
+ram run__ram run,196,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04983344872498039
+ram run__ram run,197,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049581369117688755
+ram run__ram run,198,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04994565842812658
+ram run__ram run,199,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04980985479540218
+ram run__ram run,200,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04991467522501215
+ram run__ram run,201,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05014512333105625
+ram run__ram run,202,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05049432840444133
+ram run__ram run,203,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04986594240887336
+ram run__ram run,204,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05021507002712879
+ram run__ram run,205,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05014753229021431
+ram run__ram run,206,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04938086391649196
+ram run__ram run,207,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050090930606897045
+ram run__ram run,208,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04917704620246796
+ram run__ram run,209,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04945990069311704
+ram run__ram run,210,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050349384188759894
+ram run__ram run,211,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049017357283013846
+ram run__ram run,212,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049318057464909845
+ram run__ram run,213,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04948460364601159
+ram run__ram run,214,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04950492098977524
+ram run__ram run,215,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04998798563478749
+ram run__ram run,216,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050215405250696434
+ram run__ram run,217,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050474876314727135
+ram run__ram run,218,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04971165777517188
+ram run__ram run,219,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04996623782566158
+ram run__ram run,220,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050400229751285656
+ram run__ram run,221,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049642399921183605
+ram run__ram run,222,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04971251791837379
+ram run__ram run,223,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04972180816193872
+ram run__ram run,224,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05047832335945554
+ram run__ram run,225,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05062495930775188
+ram run__ram run,226,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049730782657336686
+ram run__ram run,227,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05143780414098548
+ram run__ram run,228,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05012950084470324
+ram run__ram run,229,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049652498097970045
+ram run__ram run,230,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05054515771957689
+ram run__ram run,231,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04989400013199595
+ram run__ram run,232,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04969994133319329
+ram run__ram run,233,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04912907824485628
+ram run__ram run,234,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049254472275523896
+ram run__ram run,235,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04913922478583833
+ram run__ram run,236,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05030063147643796
+ram run__ram run,237,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05039350188628074
+ram run__ram run,238,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.049956175009043716
+ram run__ram run,239,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.050022262472489504
+ram run__ram run,240,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04981330422178683
+ram run__ram run,241,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04965008443858179
+ram run__ram run,242,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.048776220628495334
+ram run__ram run,243,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04917142046933359
+ram run__ram run,244,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04960742999620954
+ram run__ram run,245,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.0502636920299666
+ram run__ram run,246,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.05062555053440672
+ram run__ram run,247,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04965838351338642
+ram run__ram run,248,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04921029110969414
+ram run__ram run,249,output_videos/rdmeshdit/f/rdmesh/meshes/ram run.fbx,test_data/meshes/ram run.fbx,10000,0.04942281722176488
+sprint__sprint,0,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.6007095877045764
+sprint__sprint,1,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.6672858246083155
+sprint__sprint,2,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.7244577372518048
+sprint__sprint,3,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.7246883991387114
+sprint__sprint,4,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.7258987218232844
+sprint__sprint,5,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.6692129913176569
+sprint__sprint,6,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.6022330709597669
+sprint__sprint,7,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.5490499575367545
+sprint__sprint,8,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.4918247708051543
+sprint__sprint,9,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.4426210398768934
+sprint__sprint,10,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3981523724511164
+sprint__sprint,11,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.35317866500057127
+sprint__sprint,12,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3269513967336202
+sprint__sprint,13,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3268586564069786
+sprint__sprint,14,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.31595418197710323
+sprint__sprint,15,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.30881366468651156
+sprint__sprint,16,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.30917535979507
+sprint__sprint,17,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3076774141362612
+sprint__sprint,18,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3019080227425898
+sprint__sprint,19,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.3108410282089863
+sprint__sprint,20,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.299220816030702
+sprint__sprint,21,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.30005544519068883
+sprint__sprint,22,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.29075452909233934
+sprint__sprint,23,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.28785837142440746
+sprint__sprint,24,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.285760406414079
+sprint__sprint,25,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.281895510884897
+sprint__sprint,26,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27891225325975755
+sprint__sprint,27,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27583137758761717
+sprint__sprint,28,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2795954905774672
+sprint__sprint,29,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27909829589807933
+sprint__sprint,30,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2851562932799012
+sprint__sprint,31,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.28085481431915343
+sprint__sprint,32,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.28788767254226716
+sprint__sprint,33,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.28737749523234957
+sprint__sprint,34,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2800510426241336
+sprint__sprint,35,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2776942873492439
+sprint__sprint,36,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2781096327601325
+sprint__sprint,37,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27493250117288404
+sprint__sprint,38,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27221834255885363
+sprint__sprint,39,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26795820834957584
+sprint__sprint,40,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27042816246447576
+sprint__sprint,41,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2700358138092972
+sprint__sprint,42,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2669771928650527
+sprint__sprint,43,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2641576572744411
+sprint__sprint,44,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.267638372612783
+sprint__sprint,45,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.261398496653186
+sprint__sprint,46,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.25827318167165514
+sprint__sprint,47,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2636870605563984
+sprint__sprint,48,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.265650871117191
+sprint__sprint,49,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2641206481036468
+sprint__sprint,50,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27039397862912096
+sprint__sprint,51,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2726195771365352
+sprint__sprint,52,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.276697658739414
+sprint__sprint,53,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27532066469502553
+sprint__sprint,54,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2759142267862015
+sprint__sprint,55,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27539952486836883
+sprint__sprint,56,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27849013977020953
+sprint__sprint,57,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27382033786314747
+sprint__sprint,58,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27249440466651725
+sprint__sprint,59,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2687774814490836
+sprint__sprint,60,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27142158229048363
+sprint__sprint,61,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2643382398834236
+sprint__sprint,62,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2698173710562863
+sprint__sprint,63,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2691458341092073
+sprint__sprint,64,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26243748823380786
+sprint__sprint,65,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26818767300663765
+sprint__sprint,66,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2693294741687817
+sprint__sprint,67,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2715615158268076
+sprint__sprint,68,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27166178822633397
+sprint__sprint,69,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2695052358372726
+sprint__sprint,70,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27247102240472376
+sprint__sprint,71,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26844883165761935
+sprint__sprint,72,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2660449544173517
+sprint__sprint,73,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2758803769268565
+sprint__sprint,74,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2655847227570309
+sprint__sprint,75,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2714707675425614
+sprint__sprint,76,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2738527580276705
+sprint__sprint,77,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2718226920388972
+sprint__sprint,78,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27073613369908706
+sprint__sprint,79,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.266718475977964
+sprint__sprint,80,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26668790515793017
+sprint__sprint,81,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26249545938294416
+sprint__sprint,82,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26426140722887037
+sprint__sprint,83,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2691185026873322
+sprint__sprint,84,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26757675354841537
+sprint__sprint,85,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27096290327239236
+sprint__sprint,86,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.268516204748414
+sprint__sprint,87,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2669076227202378
+sprint__sprint,88,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27384708231892607
+sprint__sprint,89,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2732300536568868
+sprint__sprint,90,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2688680235168033
+sprint__sprint,91,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2694984881079311
+sprint__sprint,92,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2726209832907357
+sprint__sprint,93,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2674830431546468
+sprint__sprint,94,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2683444967045946
+sprint__sprint,95,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2717076349970671
+sprint__sprint,96,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2691017976149047
+sprint__sprint,97,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27073407383645715
+sprint__sprint,98,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27169934358775516
+sprint__sprint,99,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26908210486684625
+sprint__sprint,100,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27269946264919787
+sprint__sprint,101,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2687096359519476
+sprint__sprint,102,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27311936550890986
+sprint__sprint,103,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27119635420102156
+sprint__sprint,104,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26766853845157196
+sprint__sprint,105,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26779999934633175
+sprint__sprint,106,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27132375233956724
+sprint__sprint,107,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26613630915348735
+sprint__sprint,108,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2764436699266689
+sprint__sprint,109,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2725839087791084
+sprint__sprint,110,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26557053932954877
+sprint__sprint,111,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2679875135715436
+sprint__sprint,112,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2672572268737279
+sprint__sprint,113,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2720437801090707
+sprint__sprint,114,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2688341551638246
+sprint__sprint,115,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26906184141206996
+sprint__sprint,116,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2712655292037905
+sprint__sprint,117,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27019774218777665
+sprint__sprint,118,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26825372502736344
+sprint__sprint,119,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27035407232656483
+sprint__sprint,120,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2718142457262654
+sprint__sprint,121,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2711535915665878
+sprint__sprint,122,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.270741466777477
+sprint__sprint,123,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26361065803883404
+sprint__sprint,124,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26854890406923193
+sprint__sprint,125,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26876510836428846
+sprint__sprint,126,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26842990374060655
+sprint__sprint,127,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27116534351763893
+sprint__sprint,128,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2698947223258572
+sprint__sprint,129,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27169857885831583
+sprint__sprint,130,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2734469884574982
+sprint__sprint,131,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26831291466442775
+sprint__sprint,132,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26529967807733423
+sprint__sprint,133,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27149578545058645
+sprint__sprint,134,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2718520934657986
+sprint__sprint,135,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2708753629132971
+sprint__sprint,136,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27097174529837365
+sprint__sprint,137,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2696234929023492
+sprint__sprint,138,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.268158750034454
+sprint__sprint,139,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26545425941279377
+sprint__sprint,140,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26729534214147044
+sprint__sprint,141,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2628262576827667
+sprint__sprint,142,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26630499458384704
+sprint__sprint,143,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26751277241915306
+sprint__sprint,144,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27029326990961033
+sprint__sprint,145,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2666679973415017
+sprint__sprint,146,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27099974503271756
+sprint__sprint,147,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2698172297666133
+sprint__sprint,148,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27001777675684246
+sprint__sprint,149,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.270809356217055
+sprint__sprint,150,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2695365348687117
+sprint__sprint,151,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27222740053492855
+sprint__sprint,152,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2720447307503917
+sprint__sprint,153,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27341870702977356
+sprint__sprint,154,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2736125201789418
+sprint__sprint,155,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2676710348521499
+sprint__sprint,156,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2734665635060751
+sprint__sprint,157,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2673988897395618
+sprint__sprint,158,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2727751209775936
+sprint__sprint,159,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2696718367388924
+sprint__sprint,160,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2713015420704754
+sprint__sprint,161,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26892304600506406
+sprint__sprint,162,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.268373625773088
+sprint__sprint,163,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.271714126362929
+sprint__sprint,164,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2733192100417495
+sprint__sprint,165,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2655216295335257
+sprint__sprint,166,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2692447979915526
+sprint__sprint,167,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2670564341043796
+sprint__sprint,168,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26981687932352527
+sprint__sprint,169,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2676383932635131
+sprint__sprint,170,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.265410491705984
+sprint__sprint,171,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27230592002954473
+sprint__sprint,172,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26907140887060177
+sprint__sprint,173,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2685795869391969
+sprint__sprint,174,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2716781706762342
+sprint__sprint,175,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27059880661178604
+sprint__sprint,176,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2660591626913773
+sprint__sprint,177,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2671590931880055
+sprint__sprint,178,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2724045338496939
+sprint__sprint,179,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2731287102738291
+sprint__sprint,180,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2743991331989347
+sprint__sprint,181,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2683643801534941
+sprint__sprint,182,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2669050117510861
+sprint__sprint,183,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26887826383212654
+sprint__sprint,184,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26689899443890025
+sprint__sprint,185,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.269301520421775
+sprint__sprint,186,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26712452472848536
+sprint__sprint,187,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2697890718539895
+sprint__sprint,188,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26973112410796857
+sprint__sprint,189,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2670600620986716
+sprint__sprint,190,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2701689047923215
+sprint__sprint,191,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2710734838971896
+sprint__sprint,192,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26521210020669095
+sprint__sprint,193,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27110570303173476
+sprint__sprint,194,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27271279275412397
+sprint__sprint,195,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27727119170479836
+sprint__sprint,196,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2736347821419494
+sprint__sprint,197,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27154249825769167
+sprint__sprint,198,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2717879091126384
+sprint__sprint,199,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2693407395071317
+sprint__sprint,200,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2693806039586459
+sprint__sprint,201,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27327233918817495
+sprint__sprint,202,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26808885969879603
+sprint__sprint,203,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26662169875211555
+sprint__sprint,204,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26932148487280194
+sprint__sprint,205,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2730380084047872
+sprint__sprint,206,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2689558558052043
+sprint__sprint,207,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2712269095936476
+sprint__sprint,208,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2753808316621062
+sprint__sprint,209,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2736426811982029
+sprint__sprint,210,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2733742715289876
+sprint__sprint,211,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26836911936367136
+sprint__sprint,212,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2669544720258716
+sprint__sprint,213,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2715150991810133
+sprint__sprint,214,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27188437250546793
+sprint__sprint,215,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27011655916722
+sprint__sprint,216,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26957268837639636
+sprint__sprint,217,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26573693770418694
+sprint__sprint,218,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2678865789702485
+sprint__sprint,219,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2737560461700622
+sprint__sprint,220,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2697979858074323
+sprint__sprint,221,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2683332309238513
+sprint__sprint,222,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27182280671078407
+sprint__sprint,223,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2712252302159425
+sprint__sprint,224,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26664744852697486
+sprint__sprint,225,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27070062672575285
+sprint__sprint,226,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27044194328080956
+sprint__sprint,227,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26864488231278005
+sprint__sprint,228,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26842763007253245
+sprint__sprint,229,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26499787928715696
+sprint__sprint,230,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2757184123530225
+sprint__sprint,231,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26993487945229244
+sprint__sprint,232,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27119529360730393
+sprint__sprint,233,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27284696251147655
+sprint__sprint,234,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2694883949694753
+sprint__sprint,235,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27016680859288883
+sprint__sprint,236,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2687975956899158
+sprint__sprint,237,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27186348964552726
+sprint__sprint,238,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26995506709078804
+sprint__sprint,239,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2771459673992915
+sprint__sprint,240,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2643874883573895
+sprint__sprint,241,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2701489765261139
+sprint__sprint,242,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26687848793600194
+sprint__sprint,243,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2663465973730355
+sprint__sprint,244,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.27417540258405115
+sprint__sprint,245,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.26881499242876594
+sprint__sprint,246,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2706431647996732
+sprint__sprint,247,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2691517801233205
+sprint__sprint,248,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2727639333246966
+sprint__sprint,249,output_videos/rdmeshdit/f/rdmesh/meshes/sprint.fbx,test_data/meshes/sprint.fbx,10000,0.2691793756270698
+stand to lying__stand to lying,0,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4512809299234267
+stand to lying__stand to lying,1,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.445616495440442
+stand to lying__stand to lying,2,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.45014063307328916
+stand to lying__stand to lying,3,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4414385650895699
+stand to lying__stand to lying,4,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.44790220267106295
+stand to lying__stand to lying,5,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4400641429749893
+stand to lying__stand to lying,6,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4468298289208689
+stand to lying__stand to lying,7,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4483885622421576
+stand to lying__stand to lying,8,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.44995926531450814
+stand to lying__stand to lying,9,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.44463514484006295
+stand to lying__stand to lying,10,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.4432479912755332
+stand to lying__stand to lying,11,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.44059495210171584
+stand to lying__stand to lying,12,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.456473496239271
+stand to lying__stand to lying,13,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.46387994743358113
+stand to lying__stand to lying,14,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.475042477290807
+stand to lying__stand to lying,15,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.48060426128130573
+stand to lying__stand to lying,16,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.488967118195472
+stand to lying__stand to lying,17,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.495831581831576
+stand to lying__stand to lying,18,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5065347472570919
+stand to lying__stand to lying,19,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5143376839710906
+stand to lying__stand to lying,20,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5153613500784284
+stand to lying__stand to lying,21,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5247899921688991
+stand to lying__stand to lying,22,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5547640796319595
+stand to lying__stand to lying,23,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5936237048981085
+stand to lying__stand to lying,24,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6402045656334302
+stand to lying__stand to lying,25,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6983822543582019
+stand to lying__stand to lying,26,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7380292663418182
+stand to lying__stand to lying,27,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7690772617356774
+stand to lying__stand to lying,28,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7849527258251046
+stand to lying__stand to lying,29,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7708590292561505
+stand to lying__stand to lying,30,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7697485183163321
+stand to lying__stand to lying,31,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7759452990644433
+stand to lying__stand to lying,32,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7630595966986414
+stand to lying__stand to lying,33,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7746369907083959
+stand to lying__stand to lying,34,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7520358595002157
+stand to lying__stand to lying,35,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7423211671052714
+stand to lying__stand to lying,36,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7250135885850026
+stand to lying__stand to lying,37,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.7044437869146736
+stand to lying__stand to lying,38,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6948712545514891
+stand to lying__stand to lying,39,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6678581275955008
+stand to lying__stand to lying,40,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6532992776080104
+stand to lying__stand to lying,41,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6448984692937316
+stand to lying__stand to lying,42,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6161718785727415
+stand to lying__stand to lying,43,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.6046474957223288
+stand to lying__stand to lying,44,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5871503594445462
+stand to lying__stand to lying,45,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5752959251777132
+stand to lying__stand to lying,46,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5631000562303897
+stand to lying__stand to lying,47,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5612907243465108
+stand to lying__stand to lying,48,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5658128422061816
+stand to lying__stand to lying,49,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5590022355518522
+stand to lying__stand to lying,50,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5743992932878524
+stand to lying__stand to lying,51,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5662149114764435
+stand to lying__stand to lying,52,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5708422349670477
+stand to lying__stand to lying,53,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.567810690099183
+stand to lying__stand to lying,54,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5722044224731704
+stand to lying__stand to lying,55,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5722239308790099
+stand to lying__stand to lying,56,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5713711934655572
+stand to lying__stand to lying,57,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.565835647154223
+stand to lying__stand to lying,58,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5689883362885242
+stand to lying__stand to lying,59,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5621106606783295
+stand to lying__stand to lying,60,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5630721243395103
+stand to lying__stand to lying,61,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5581823905035999
+stand to lying__stand to lying,62,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5422033582606588
+stand to lying__stand to lying,63,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5402134506530369
+stand to lying__stand to lying,64,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5466991962636961
+stand to lying__stand to lying,65,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5382625890025896
+stand to lying__stand to lying,66,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5439757307468192
+stand to lying__stand to lying,67,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5439894848818947
+stand to lying__stand to lying,68,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5459821626593113
+stand to lying__stand to lying,69,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.547749326345394
+stand to lying__stand to lying,70,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5381362624175897
+stand to lying__stand to lying,71,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5466341676018165
+stand to lying__stand to lying,72,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5442498775812845
+stand to lying__stand to lying,73,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5412439809187366
+stand to lying__stand to lying,74,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5435633774599598
+stand to lying__stand to lying,75,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5532196096263727
+stand to lying__stand to lying,76,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5495974571592704
+stand to lying__stand to lying,77,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.54752037301272
+stand to lying__stand to lying,78,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5412937321630986
+stand to lying__stand to lying,79,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5431313706446637
+stand to lying__stand to lying,80,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5386217549975698
+stand to lying__stand to lying,81,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5400590717747943
+stand to lying__stand to lying,82,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5482109418546814
+stand to lying__stand to lying,83,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5448841124340646
+stand to lying__stand to lying,84,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5474239149632394
+stand to lying__stand to lying,85,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5454895320780395
+stand to lying__stand to lying,86,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.542115349548529
+stand to lying__stand to lying,87,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5411908111558278
+stand to lying__stand to lying,88,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5483169671474349
+stand to lying__stand to lying,89,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5467219722963285
+stand to lying__stand to lying,90,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5545201677871687
+stand to lying__stand to lying,91,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5457930371336629
+stand to lying__stand to lying,92,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5387474305746734
+stand to lying__stand to lying,93,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5475630790715307
+stand to lying__stand to lying,94,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5423623404154828
+stand to lying__stand to lying,95,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5499699482504748
+stand to lying__stand to lying,96,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5428615048994976
+stand to lying__stand to lying,97,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5458992917702084
+stand to lying__stand to lying,98,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.545865457335279
+stand to lying__stand to lying,99,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5466136195874081
+stand to lying__stand to lying,100,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.536861595367534
+stand to lying__stand to lying,101,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5439259750407979
+stand to lying__stand to lying,102,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5442229773603185
+stand to lying__stand to lying,103,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5486163050213946
+stand to lying__stand to lying,104,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5374800067410646
+stand to lying__stand to lying,105,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.545634920507483
+stand to lying__stand to lying,106,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5418707315279019
+stand to lying__stand to lying,107,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.549890998965465
+stand to lying__stand to lying,108,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5485121938294594
+stand to lying__stand to lying,109,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.543762285076746
+stand to lying__stand to lying,110,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.553100934067837
+stand to lying__stand to lying,111,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5473406295459301
+stand to lying__stand to lying,112,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5479943276934389
+stand to lying__stand to lying,113,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5501433664258
+stand to lying__stand to lying,114,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5449601302442713
+stand to lying__stand to lying,115,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5452603580548594
+stand to lying__stand to lying,116,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5449465124525451
+stand to lying__stand to lying,117,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5498828149623072
+stand to lying__stand to lying,118,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.547132002943972
+stand to lying__stand to lying,119,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5449748105011077
+stand to lying__stand to lying,120,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5375445353950121
+stand to lying__stand to lying,121,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5490886187718498
+stand to lying__stand to lying,122,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.537177359078206
+stand to lying__stand to lying,123,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5405017090337622
+stand to lying__stand to lying,124,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5544582248027452
+stand to lying__stand to lying,125,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5406189820457046
+stand to lying__stand to lying,126,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5481353533556481
+stand to lying__stand to lying,127,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5407387696713685
+stand to lying__stand to lying,128,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5408513412013063
+stand to lying__stand to lying,129,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5475453609259581
+stand to lying__stand to lying,130,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5483498069177397
+stand to lying__stand to lying,131,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.548775784263399
+stand to lying__stand to lying,132,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5478482008184514
+stand to lying__stand to lying,133,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5506703971379909
+stand to lying__stand to lying,134,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5445609508821707
+stand to lying__stand to lying,135,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5472526875575023
+stand to lying__stand to lying,136,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5453161552139354
+stand to lying__stand to lying,137,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.53789954271889
+stand to lying__stand to lying,138,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.547354870032231
+stand to lying__stand to lying,139,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5381492381951789
+stand to lying__stand to lying,140,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5427225966780036
+stand to lying__stand to lying,141,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.540207354558361
+stand to lying__stand to lying,142,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5549043406798254
+stand to lying__stand to lying,143,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.541806371550914
+stand to lying__stand to lying,144,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5408777395013457
+stand to lying__stand to lying,145,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.542025548686133
+stand to lying__stand to lying,146,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5459120597559783
+stand to lying__stand to lying,147,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5415553170561636
+stand to lying__stand to lying,148,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5388767430339791
+stand to lying__stand to lying,149,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5481311667005192
+stand to lying__stand to lying,150,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.543738486816224
+stand to lying__stand to lying,151,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5475415336318191
+stand to lying__stand to lying,152,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5547920381626492
+stand to lying__stand to lying,153,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5409077414925307
+stand to lying__stand to lying,154,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.542998305134613
+stand to lying__stand to lying,155,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5424070088204425
+stand to lying__stand to lying,156,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5413253561252992
+stand to lying__stand to lying,157,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5496876343270785
+stand to lying__stand to lying,158,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5434332074871342
+stand to lying__stand to lying,159,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5445230123689992
+stand to lying__stand to lying,160,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5493741110719774
+stand to lying__stand to lying,161,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5413500566747718
+stand to lying__stand to lying,162,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5430374357276357
+stand to lying__stand to lying,163,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5477790903418027
+stand to lying__stand to lying,164,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5390510575189786
+stand to lying__stand to lying,165,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5447979786547217
+stand to lying__stand to lying,166,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5458060820539394
+stand to lying__stand to lying,167,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5457401267738421
+stand to lying__stand to lying,168,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5448208589218926
+stand to lying__stand to lying,169,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5469860435191514
+stand to lying__stand to lying,170,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5403186625519839
+stand to lying__stand to lying,171,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5452638046174954
+stand to lying__stand to lying,172,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5392527363025346
+stand to lying__stand to lying,173,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.541069562954418
+stand to lying__stand to lying,174,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5479851988305751
+stand to lying__stand to lying,175,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.543023405509528
+stand to lying__stand to lying,176,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5402134208520641
+stand to lying__stand to lying,177,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5562851398108767
+stand to lying__stand to lying,178,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5455536277837144
+stand to lying__stand to lying,179,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5424750632609419
+stand to lying__stand to lying,180,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5455393032259144
+stand to lying__stand to lying,181,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5454177492637664
+stand to lying__stand to lying,182,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5420797353689074
+stand to lying__stand to lying,183,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5481441344459603
+stand to lying__stand to lying,184,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5512758141105963
+stand to lying__stand to lying,185,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5446492755982169
+stand to lying__stand to lying,186,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5478079880055182
+stand to lying__stand to lying,187,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5395056514457629
+stand to lying__stand to lying,188,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5375013424826475
+stand to lying__stand to lying,189,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.546218700663556
+stand to lying__stand to lying,190,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5436444110903125
+stand to lying__stand to lying,191,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5468173704288298
+stand to lying__stand to lying,192,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5349078158209898
+stand to lying__stand to lying,193,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5423139780727915
+stand to lying__stand to lying,194,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5483156345418643
+stand to lying__stand to lying,195,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5394290958230248
+stand to lying__stand to lying,196,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5455945029563669
+stand to lying__stand to lying,197,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5468507599474355
+stand to lying__stand to lying,198,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.550628230698769
+stand to lying__stand to lying,199,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5430489816707451
+stand to lying__stand to lying,200,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5505327912671569
+stand to lying__stand to lying,201,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.544808138675
+stand to lying__stand to lying,202,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.542061441670836
+stand to lying__stand to lying,203,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5402631812187332
+stand to lying__stand to lying,204,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5516632211876611
+stand to lying__stand to lying,205,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5462997992050286
+stand to lying__stand to lying,206,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5424192984656738
+stand to lying__stand to lying,207,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5475273560532041
+stand to lying__stand to lying,208,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5418310527137098
+stand to lying__stand to lying,209,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5515675003036828
+stand to lying__stand to lying,210,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5449015588663657
+stand to lying__stand to lying,211,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5397769275127658
+stand to lying__stand to lying,212,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5439664158715933
+stand to lying__stand to lying,213,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5481978614853644
+stand to lying__stand to lying,214,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5380018523804223
+stand to lying__stand to lying,215,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5494909472115086
+stand to lying__stand to lying,216,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5464766805767329
+stand to lying__stand to lying,217,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.541249438726838
+stand to lying__stand to lying,218,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5460741059151217
+stand to lying__stand to lying,219,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5497437619271387
+stand to lying__stand to lying,220,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5497660100523999
+stand to lying__stand to lying,221,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5511779954949725
+stand to lying__stand to lying,222,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5427871698630142
+stand to lying__stand to lying,223,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.545816398705641
+stand to lying__stand to lying,224,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.544664532696501
+stand to lying__stand to lying,225,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5357218934516651
+stand to lying__stand to lying,226,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5526181774374306
+stand to lying__stand to lying,227,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.546237570831093
+stand to lying__stand to lying,228,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5405695121507015
+stand to lying__stand to lying,229,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5437365474304596
+stand to lying__stand to lying,230,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5448056113944115
+stand to lying__stand to lying,231,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5480330347937664
+stand to lying__stand to lying,232,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5457766624812802
+stand to lying__stand to lying,233,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5451574548539839
+stand to lying__stand to lying,234,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5457338098592702
+stand to lying__stand to lying,235,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5391108905666437
+stand to lying__stand to lying,236,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5438579412090737
+stand to lying__stand to lying,237,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5475527803538551
+stand to lying__stand to lying,238,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.540144377439198
+stand to lying__stand to lying,239,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5441212240449567
+stand to lying__stand to lying,240,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5421022320443623
+stand to lying__stand to lying,241,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5326282748375345
+stand to lying__stand to lying,242,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5428759327728621
+stand to lying__stand to lying,243,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5450370491750228
+stand to lying__stand to lying,244,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5445051832637571
+stand to lying__stand to lying,245,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5472839947654722
+stand to lying__stand to lying,246,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5397400330323328
+stand to lying__stand to lying,247,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5412732390803514
+stand to lying__stand to lying,248,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5507478300728319
+stand to lying__stand to lying,249,output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying.fbx,test_data/meshes/stand to lying.fbx,10000,0.5428169359555619
