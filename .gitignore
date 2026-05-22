@@ -6,3 +6,5 @@ Wan2_2/wan/configs/__pycache__/
 Wan2_2/wan/distributed/__pycache__/
 Wan2_2/wan/modules/__pycache__/
 Wan2_2/wan/utils/__pycache__/
+ckpts/
+pytorch3d/
