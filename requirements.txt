@@ -1,6 +1,6 @@
 torchdiffeq
 tqdm
-git+https://github.com/facebookresearch/pytorch3d.git@stable 
+# git+https://github.com/facebookresearch/pytorch3d.git@stable 
 einops
 bpy==4.4.0
 opencv-python

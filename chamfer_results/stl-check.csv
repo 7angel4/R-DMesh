@@ -1,0 +1,3 @@
+# command: chamfer_eval.py '/scratch/shared/beegfs/angelyhe/AIMS-MP2/R-DMesh/test_data/meshes/stand to lying/normed' '/scratch/shared/beegfs/angelyhe/AIMS-MP2/R-DMesh/output_videos/rdmeshdit/f/rdmesh/meshes/stand to lying/aligned/' --export /scratch/shared/beegfs/angelyhe/AIMS-MP2/R-DMesh/chamfer_results/stl-check.csv --frame_start 0 --frame_end 0
+frame,chamfer_squared
+0,0.0020802155144362382

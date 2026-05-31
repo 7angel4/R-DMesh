@@ -433,7 +433,25 @@ class RDMeshVAE(nn.Module):
         # Sample & Gather
         with torch.no_grad():
             valid_length = valid_mask.sum(dim=-1)
-            _, idx = ops.sample_farthest_points(points=pc0_embed, lengths=valid_length, K=self.num_traj)
+            pc0_embed_cpu = pc0_embed.detach().cpu()
+            valid_length_cpu = valid_length.detach().cpu()
+
+            print("self.num_traj =", self.num_traj)
+            print("pc0_embed_cpu.shape =", pc0_embed_cpu.shape)
+            print("valid_length_cpu =", valid_length_cpu)
+            
+            K = self.num_traj
+            if K is None or K <= 0:
+                K = pc0_embed_cpu.shape[1]
+            K = min(K, pc0_embed_cpu.shape[1])
+            K = max(1, K)
+
+            _, idx = ops.sample_farthest_points(
+                points=pc0_embed_cpu,
+                lengths=valid_length_cpu,
+                K=K,
+            )
+            idx = idx.to(pc0_embed.device)
             idx = replace_negative_indices(idx, valid_length)
         pc0_embed = torch.gather(pc0_embed, 1, idx.unsqueeze(-1).expand(-1, -1, pc0_embed.shape[-1]))
         pc1_embed = torch.gather(pc1_embed, 1, idx.unsqueeze(-1).expand(-1, -1, pc1_embed.shape[-1]))

@@ -194,7 +194,13 @@ def drive_mesh_and_render_with_pkl(mesh_objects, trajs, output_base_path, azi=0.
                 shape_key.value = 0
                 shape_key.keyframe_insert("value", frame=frame)
                 if mesh_obj.data.shape_keys.animation_data and mesh_obj.data.shape_keys.animation_data.action:
-                    fcurves = mesh_obj.data.shape_keys.animation_data.action.fcurves
+                    shape_keys = mesh_obj.data.shape_keys
+                    fcurves = []
+
+                    if shape_keys is not None and shape_keys.animation_data is not None:
+                        action = shape_keys.animation_data.action
+                        if action is not None and hasattr(action, "fcurves"):
+                            fcurves = action.fcurves
                     for fc in fcurves:
                         for kf in fc.keyframe_points:
                             kf.interpolation = 'CONSTANT'
@@ -360,7 +366,7 @@ def drive_mesh_and_render_with_pkl(mesh_objects, trajs, output_base_path, azi=0.
     scene.cycles.transparent_max_bounces = 1
     
     scene.render.filepath = video_path
-    scene.render.image_settings.file_format = 'FFMPEG'
+    scene.render.image_settings.file_format = 'PNG'
     scene.render.ffmpeg.format = 'MPEG4'
     scene.render.ffmpeg.codec = 'H264'
     scene.render.ffmpeg.constant_rate_factor = 'MEDIUM'
