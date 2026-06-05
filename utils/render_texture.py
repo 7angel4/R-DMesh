@@ -193,17 +193,15 @@ def drive_mesh_and_render_with_pkl(mesh_objects, trajs, output_base_path, azi=0.
             for shape_key in mesh_obj.data.shape_keys.key_blocks[1:]:
                 shape_key.value = 0
                 shape_key.keyframe_insert("value", frame=frame)
-                if mesh_obj.data.shape_keys.animation_data and mesh_obj.data.shape_keys.animation_data.action:
-                    shape_keys = mesh_obj.data.shape_keys
-                    fcurves = []
-
-                    if shape_keys is not None and shape_keys.animation_data is not None:
-                        action = shape_keys.animation_data.action
-                        if action is not None and hasattr(action, "fcurves"):
-                            fcurves = action.fcurves
-                    for fc in fcurves:
-                        for kf in fc.keyframe_points:
-                            kf.interpolation = 'CONSTANT'
+                shape_keys = mesh_obj.data.shape_keys
+                if shape_keys is not None and shape_keys.animation_data is not None:
+                    action = shape_keys.animation_data.action
+                    if action is not None:
+                        fcurves = getattr(action, "fcurves", None)
+                        if fcurves is not None:
+                            for fc in fcurves:
+                                for kf in fc.keyframe_points:
+                                    kf.interpolation = 'CONSTANT'
             
             current_shape_key = mesh_obj.data.shape_keys.key_blocks[f"Frame_{frame}"]
             current_shape_key.value = 1

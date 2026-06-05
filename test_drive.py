@@ -1,4 +1,7 @@
 import torch
+torch.backends.cudnn.enabled = False
+torch.backends.cudnn.benchmark = False
+
 from torch.utils.data import Dataset, DataLoader
 import os
 import json
