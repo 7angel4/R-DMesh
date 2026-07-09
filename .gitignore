@@ -1,6 +1,5 @@
 */__pycache__
 __pycache__/
-Wan2_2/
 Wan2_2/wan/modules/s2v/__pycache__/
 Wan2_2/wan/__pycache__/
 Wan2_2/wan/configs/__pycache__/
@@ -9,3 +8,5 @@ Wan2_2/wan/modules/__pycache__/
 Wan2_2/wan/utils/__pycache__/
 ckpts/
 pytorch3d/
+Wan2_2/
+output_videos/
